@@ -1,0 +1,40 @@
+ {
+ "items":
+ [{
+ 	"url": "http://developer.android.com/index.html",
+ 	"title": "Android tutorials",
+ 	"image": "http://www.tutorialspoint.com/android/images/android-mini-logo.jpg",
+ 	"description": "Android is an open source and Linux-based operating system for mobile devices such as smartphones and tablet computers. Android was developed by the Open Handset Alliance, led by Google, and other companies. This tutorial will teach you basic Android programming and will also take you through some advance concepts related to Android application development."
+ }, {
+ 	"url": "https://angularjs.org/",
+ 	"title": "AngularJs Tutorials",
+ 	"image": "http://www.tutorialspoint.com/angularjs/images/angularjs-mini-logo.jpg",
+ 	"description": "AngularJS is a very powerful JavaScript Framework. It is used in Single Page Application (SPA) projects. It extends HTML DOM with additional attributes and makes it more responsive to user actions. AngularJS is open source, completely free, and used by thousands of developers around the world. It is licensed under the Apache license version 2.0."
+ }, {
+ 	"url": "http://www.html5rocks.com/en/",
+ 	"title": "HTML5 Tutorials",
+ 	"image": "http://www.tutorialspoint.com/html5/images/html5-mini-logo.jpg",
+ 	"description": "HTML5 is the latest and most enhanced version of HTML.Technically, HTML is not a programming language, but rather a mark up language."
+ }, {
+ 	"url": "https://www.w3.org/Style/CSS/",
+ 	"title": "CSS Tutorials",
+ 	"image": "http://www.tutorialspoint.com/css/images/css-mini-logo.jpg",
+ 	"description": "CSS is used to control the style of a web document in a simple and easy way.CSS is the acronym for Cascading Style Sheet. This tutorial covers both the versions CSS1,CSS2 and CSS3, and gives a complete understanding of CSS, starting from its basics to advanced concepts."
+ }, {
+ 	"url": "https://docs.oracle.com/javase/tutorial/",
+ 	"title": "Java Tutorials",
+ 	"image": "http://www.tutorialspoint.com/java/images/java-mini-logo.jpg",
+ 	"description": "Java is a high-level programming language originally developed by Sun Microsystems and released in 1995. Java runs on a variety of platforms, such as Windows, Mac OS, and the various versions of UNIX. This tutorial gives a complete understanding of Java.This reference will take you through simple and practical approach while learning Java Programming language."
+ }, {
+ 	"url": "https://www.joomla.org/",
+ 	"title": "Joomla Tutorials",
+ 	"image": "http://www.tutorialspoint.com/joomla/images/joomla-mini-logo.jpg",
+ 	"description": "Joomla is an open source Content Management System (CMS), which is used to build websites and online applications. It is free and extendable which is separated into front-end templates and back-end templates (administrator). Joomla is developed using PHP, Object Oriented Programming, software design patterns and MySQL (used for storing the data). This tutorial will teach you the basics of Joomla using which you can create websites with ease. The tutorial is divided into sections such as Joomla Basics, Joomla Menus, Joomla Modules, Joomla Global Settings, and Joomla Advanced. Each of these sections contain related topics with screenshots explaining the Joomla admin screens."
+ }, {
+ 	"url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+ 	"title": "JavaScript Tutorials",
+ 	"image": "http://www.tutorialspoint.com/javascript/images/javascript-mini-logo.jpg",
+ 	"description": "JavaScript is a lightweight, interpreted programming language. It is designed for creating network-centric applications. It is complimentary to and integrated with Java. JavaScript is very easy to implement because it is integrated with HTML. It is open and cross-platform.."
+ }]
+}
+

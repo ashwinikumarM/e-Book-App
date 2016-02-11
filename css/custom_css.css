@@ -1,0 +1,160 @@
+
+.height
+{
+height:100%;
+}
+.viewHeight
+{
+height:80%;
+}
+.heightImp
+{
+height:100% !important;
+}
+
+
+#head
+{
+  margin-top: 0px !important;
+margin-bottom: 1px !important;
+background: #002b49; /* Old browsers */
+background: -moz-linear-gradient(top,  #002b49 0%, #002b49 50%, #002b49 51%, #002b49 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #002b49 0%,#002b49 50%,#002b49 51%,#002b49 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #002b49 0%,#002b49 50%,#002b49 51%,#002b49 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#002b49', endColorstr='#002b49',GradientType=0 ); /* IE6-9 */
+text-align: center;
+height: 60px;
+padding-top: 10px; 
+}
+
+#foot
+{
+background: #002b49; /* Old browsers */
+background: -moz-linear-gradient(top,  #002b49 0%, #002b49 50%, #002b49 51%, #002b49 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  #002b49 0%,#002b49 50%,#002b49 51%,#002b49 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  #002b49 0%,#002b49 50%,#002b49 51%,#002b49 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#002b49', endColorstr='#002b49',GradientType=0 ); /* IE6-9 */
+font-family: "Guardian-Light","HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+font-weight: normal;
+font-style: normal;
+color: #fff;
+bottom: 0;
+width: 100%;
+height: 60px;
+margin: 0px !important;
+
+}
+
+#foot p
+{
+  margin: 15px 0px 0px 0px !important;
+  text-align: center;
+}
+
+.commonFont
+{
+  font-family: "Guardian-Light","HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  color: #fff;
+}
+
+.listView
+{
+  font-family: "Guardian-Light","HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  color: #000;
+}
+
+
+/* content.html elements */
+.searchBar
+{
+  height: 15% !important;
+    background-color: aliceblue;
+    display: inline-flex;
+}
+
+.inputText
+{
+  background: -webkit-gradient(linear, center top, center bottom, color-stop(0%, #ccc), color-stop(100%, #fff));
+  border-radius: 8px;
+  height: 30px;
+  outline :0;
+}
+
+.innerDiv
+{
+  display: flex;
+  align-items: center;
+}
+
+#leftSide
+{
+  border : 1px solid black;
+  border-radius: 2px;
+  height: 75%;
+  box-shadow: 0px 6px 2px #888888;
+}
+
+#rightSide
+{
+  border : 1px solid black;
+  border-radius: 2px;
+  height: 75%;
+  box-shadow: 6px 6px 2px #888888;
+}
+
+#leftHeader, #rightHeader
+{
+  text-decoration: underline;
+}
+
+.highlight
+{
+  margin-left: 6%;
+  border-radius: 10px;
+  background: #ffffff;
+  color: #000000;
+  outline :0;s
+}
+
+.highlight:hover, .highlight:focus, .highlight::before
+{
+  background-color : #4da6ff;
+  color: white;
+  border-radius: 10px;
+}
+
+.listSection
+{
+  padding-top: 2%;
+  height: 90%;
+}
+
+.ulCustom
+{
+  padding: 0px !important;
+  list-style-type: none;
+  height: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+/* Animation CSS */
+.box {
+  background: #5FCF80;
+}
+.box:hover {
+  transform: rotate(360deg);
+}
+
+.rotate:hover {
+  transition: all 1s ease-in-out;
+}
+
+.desc
+{
+      margin-top: 5%;
+}
